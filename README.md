@@ -19,6 +19,8 @@ Laravel 非公式日本語ドキュメント http://laravel.jp/
 
 ## Laravel + Homestead Template
 
+自分でイチからつくる際の参考にしてください。
+
 ````
 $ laravel new oic_2017_2
 $ composer install 
