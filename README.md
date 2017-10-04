@@ -25,5 +25,6 @@ Laravel 非公式日本語ドキュメント http://laravel.jp/
 $ laravel new oic_2017_2
 $ composer install 
 $ composer require laravel/homestead --dev
+$ php vendor/bin/homestead make
 $ vagrant up
 ````
